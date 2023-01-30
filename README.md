@@ -1,2 +1,2 @@
-# microprocessor
-Microprocessor Lab Simple Examples
+# Microprocessor Lab
+Microprocessor Lab - Simple Examples
