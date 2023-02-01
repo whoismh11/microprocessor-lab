@@ -12,13 +12,11 @@ void main() {
     PORTB.0 = 1;
     PORTB.1 = 1;
     PORTC.0 = 1;
-    
-    while(1) {
-        if(PINC.0 == 0) {
+
+    while (1) {
+        if (PINC.0 == 0) {
             PORTD = seg[PINA + PINB];
-        }
-        else
-        {
+        } else {
             PORTD = seg[PINA * PINB];
         }
     }
