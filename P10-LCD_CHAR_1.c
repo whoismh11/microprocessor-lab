@@ -4,8 +4,8 @@
 
 void main() {
     lcd_init(16);
-    
-    while(1) {
+
+    while (1) {
         lcd_gotoxy(6, 0);
         lcd_putsf("Mamad");
         delay_ms(300);
