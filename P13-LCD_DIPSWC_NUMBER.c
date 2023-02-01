@@ -9,8 +9,8 @@ void main() {
     DDRD = 0x00;
     PORTD = 0xFF;
     lcd_init(16);
-    
-    while(1) {
+
+    while (1) {
         i = ~PIND;
         lcd_clear();
         lcd_gotoxy(0, 0);
