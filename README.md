@@ -1,5 +1,5 @@
 # Microprocessor Lab
-Microprocessor Lab - Simple examples (the easiest way).
+Microprocessor Lab - Simple examples (the easiest way) with **Proteus** and **CodeVision**.
 
 ### [FLASHER 1](P01-FLASHER_1.c)
 ![Circuit](img/1_2.png)
