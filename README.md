@@ -1,6 +1,8 @@
 # Microprocessor Lab
 Microprocessor Lab - Simple examples (the easiest way) with **Proteus** and **CodeVision**.
 
+## Contents
+
 ### [FLASHER 1](P01-FLASHER_1.c)
 ![Circuit](img/1_2.png)
 
@@ -48,3 +50,6 @@ Microprocessor Lab - Simple examples (the easiest way) with **Proteus** and **Co
 
 ### [BARGRAPH COUNTER 0-255](P16-BARGRAPH_COUNTER.c)
 ![Circuit](img/16.png)
+
+## Contribution
+- [Discord](https://discord.gg/2JjvhAk)
